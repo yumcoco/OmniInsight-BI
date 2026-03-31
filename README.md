@@ -10,3 +10,4 @@ A schema-grounded AI copilot for multi-source BI analysis, dashboard querying, c
 <img width="1085" height="579" alt="Screenshot 2026-03-31 at 10 52 32" src="https://github.com/user-attachments/assets/9521667f-7688-4630-813e-4a3c00034ac6" />
 
 ### Demo
+https://youtu.be/cZY53WbCxFY
